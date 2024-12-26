@@ -1,28 +1,28 @@
-Rich edition
+Ценное издание
 =========
 
-Roman-à-clef genre handbook which covers matter in just 21 pages (including images) separated into 12 chapters
+Справочник в жанре Roman-à-clef, суть которого изложена всего на 21 странице (включая изображения), в 12 главах.
 
-## Using these files
+## Использование данного материала
 
-The file book.html contains a rich edition - [Whizzy way on how to become a ₿ millionaire](http://handbook.lol/) 
+В файле book.html ценное издание - [Передовой способ как стать ₿ миллионером](http://handbook.lol/) 
 
-### Order non-fungible version of this book
+### Заказать подлинное издание книги
 
 ![Order an image](images/order.png "Order book")
 
-To order a book, you need to accomplish these steps:
+Для заказа книги, необходимо выполнить следующие условия:
 
-*) Send to __1J12J21ABfVCQpdaBujcf3Xmm3KmCFw66t__ at least twice as many satoshis as there are at this address.
+*) Отправить на __1RUS1KFseiGB73mQG8ib3MvRmPMkZtqGf__ как минимум вдвое больше единиц сатоши чем находится на балансе этого адреса.
 
-*) Send a request to an email above, including full delivery address (digital or physical) signed by address you sent funds from.
+*) Отправьте запрос на указанный выше адрес электронной почты, указав полный адрес доставки (в цифре или бумаге), подписанный адресом, с которого вы отправляли средства.
 
-### Propose a translation
+### Предложение перевода
 
-If you are able and wish to do a book translation, please contact publishing house via e-mail below. You will get the instructions in reply.
+Если вы можете и хотите сделать перевод книги, свяжитесь с издательством по электронной почте, указанной ниже. Инструкции вы получите в ответном письме.
 
 ![Order an image](images/translate.png "Translate book")
 
-### Distribute
+### Распространяйте
 
-You may want to distribute the book: you're welcome to do so according to [LICENSE](LICENSE) agreement.
+Возможно, вы желаете распространить книгу: это возможно сделать в соответсвии с [лицензионным соглашением](LICENSE).
